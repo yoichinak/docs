@@ -76,7 +76,7 @@ Deploying an FDE has a number of advantages:
 
 - Multiple apps use the same .NET Core installation, which reduces both disk space and memory usage on host systems.
 
-- Your app can be run by calling the published executable without invoking the `dotnet` utility directly.
+- Your app can be run by calling the published executable directly without invoking the `dotnet` utility.
 
 There are also a few disadvantages:
 
